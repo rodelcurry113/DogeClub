@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE5caae5E9120D4c1BdDef89aBa496b1A3486be64",
+  "SCAN_LINK": "https://app.ambition.so/smart-contracts/embed/v1?contract=0xE5caae5E9120D4c1BdDef89aBa496b1A3486be64&chainId=0x13881",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "DogeClubNFT",
+  "SYMBOL": "DCNFT",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dogeclubnft",
+  "SHOW_BACKGROUND": true
+}
